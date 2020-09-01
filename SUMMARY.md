@@ -4,5 +4,5 @@
 
 ## Dasar - Dasar IoT
 
-* [Application of IoT](dasar-dasar-iot/application-of-iot.md)
+* [Component of IoT](dasar-dasar-iot/component-of-iot.md)
 
