@@ -4,5 +4,6 @@
 
 ## Dasar - Dasar IoT
 
-* [Component of IoT](dasar-dasar-iot/component-of-iot.md)
+* [Components of IoT](dasar-dasar-iot/components-of-iot.md)
+* [Characteristics of IoT](dasar-dasar-iot/characteristics-of-iot.md)
 

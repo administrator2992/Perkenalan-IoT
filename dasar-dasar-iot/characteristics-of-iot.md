@@ -1,0 +1,2 @@
+# Characteristics of IoT
+

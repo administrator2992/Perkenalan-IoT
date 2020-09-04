@@ -2,7 +2,7 @@
 description: Komponen - Komponen dalam IoT
 ---
 
-# Component of IoT
+# Components of IoT
 
 
 
