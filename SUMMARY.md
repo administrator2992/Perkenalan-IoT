@@ -6,4 +6,5 @@
 
 * [Components of IoT](dasar-dasar-iot/components-of-iot.md)
 * [Characteristics of IoT](dasar-dasar-iot/characteristics-of-iot.md)
+* [Keuntungan & Kerugian](dasar-dasar-iot/keuntungan-and-kerugian.md)
 
