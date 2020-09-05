@@ -1,5 +1,5 @@
 ---
-description: Komponen - Komponen dalam IoT
+description: Komponen - Komponen pada IoT
 ---
 
 # Components of IoT
@@ -8,7 +8,7 @@ description: Komponen - Komponen dalam IoT
 
 ![](https://lh6.googleusercontent.com/jvLlfaYPVcBPfRDh7Ae5uRcIM-cfKC7zgb81FnCAICzJ5GrYuEQF8Xr0Igm9q7XYGZ2YZPUnuD0-07AUgwHijnEw2Z55mNsGVCzeXdMAD7LUis3cW1wVY69BJPABVUar6lykHbk)
 
-Pada suatu perangkat IoT dipastikan harus ada komponen yang mendukung perangkat IoT, setidaknya ada 6 komponen yang ada di perangkat tersebut. Berikut 6 komponen yang biasanya berada di perangkat IoT.
+Pada suatu perangkat IoT dipastikan harus ada komponen yang mendukung perangkat IoT. Berikut contoh 6 komponen yang biasanya berada di perangkat IoT.
 
 ### Sensor
 
