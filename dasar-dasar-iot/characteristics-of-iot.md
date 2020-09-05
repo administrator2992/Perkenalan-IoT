@@ -4,7 +4,7 @@ description: Karakteristik - Karakteristik pada IoT
 
 # Characteristics of IoT
 
-
+### Pemahaman
 
 ![](https://lh6.googleusercontent.com/Bee_UMQcJoMVQwddWzyB-i0Ufq4DJpz61BWxE1F_wfyATHn8sX2Ix8yvY7t1ggQ-VymmSogqjallx_pCtvbrWU8-oyhAUv2-1aem7FBUHpeUm2cNqB42Oewxk825DpYyNoXiq6o)
 
