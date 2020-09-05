@@ -6,7 +6,7 @@ description: Pada Internet of Things
 
 
 
-|                 Keuntungan |                         Kerugian |
+|                   Keuntungan |                           Kerugian |
 | :--- | :--- |
 | **Mengakses informasi tentang sekitarnya adalah mudah menggunakan IOT.** | **Ada risiko akses ilegal ke data saat mengalir di internet.** |
 | **Itu membuat kehidupan sehari-hari lebih mudah.** | **IOT sangat mahal untuk diterapkan.** |
