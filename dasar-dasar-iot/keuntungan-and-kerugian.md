@@ -1,5 +1,5 @@
 ---
-description: Pada Internet of Things
+description: Internet of Things
 ---
 
 # Keuntungan & Kerugian
