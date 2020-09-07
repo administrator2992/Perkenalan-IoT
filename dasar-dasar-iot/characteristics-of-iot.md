@@ -1,5 +1,5 @@
 ---
-description: Karakteristik - Karakteristik pada IoT
+description: Macam - Macam Karakteristik pada IoT
 ---
 
 # Characteristics of IoT

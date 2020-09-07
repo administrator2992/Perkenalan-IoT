@@ -1,5 +1,5 @@
 ---
-description: Komponen - Komponen pada IoT
+description: Macam - Macam Komponen pada IoT
 ---
 
 # Components of IoT
