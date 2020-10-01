@@ -2,5 +2,5 @@
 
 ### Penjelasan Arsitektur IoT
 
-
+![](../.gitbook/assets/image.png)
 
