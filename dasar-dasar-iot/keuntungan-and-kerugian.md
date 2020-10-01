@@ -1,7 +1,3 @@
----
-description: Internet of Things
----
-
 # Keuntungan & Kerugian
 
 
