@@ -1,7 +1,5 @@
 # Keuntungan & Kerugian
 
-
-
 |                       Keuntungan |                                Kerugian |
 | :--- | :--- |
 | **Mengakses informasi tentang sekitarnya adalah mudah menggunakan IoT.** | **Ada risiko akses ilegal ke data saat mengalir di internet.** |
