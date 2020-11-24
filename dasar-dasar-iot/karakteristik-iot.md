@@ -1,4 +1,4 @@
-# Kararkteristik IoT
+# Karakteristik IoT
 
 ## Penjelasan Karakteristik IoT
 
