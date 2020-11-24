@@ -11,7 +11,7 @@ Dalam arsitektur IoT, belum ada standar atau kesepakatan universal mengenai arsi
 * Sensor mengkonversi parameter fisik menjadi sinyal elektronik dan aktuator mengkonversi sinyal elektronik menjadi output fisik
 * Data berpindah dari sensor/aktuator ke cloud dan sebaliknya melalui gateway
 * Streaming Data Processor memastikan transisi dari Input ke Data Lake Berjalan dengan baik
-* Data Lake menampung raw data dari bergabai device, untuk selanjutnya diolah dalam big Data Warehouse. Data biasa disimpan dalam Bentuk unstructured dan semi structured.
+* Data Lake menampung raw data dari berbagai device, untuk selanjutnya diolah dalam big Data Warehouse. Data biasa disimpan dalam Bentuk unstructured dan semi structured.
 * Big Data Warehouse berisi data yang berasal dari data lake diubah serta disiapkan dalam bentuk lebih terstruktur, serta hanya diambil yang akan Berguna untuk analisa selanjutnya.
 * Data Analytics berfungsi mencari insight di dalam data, dengan metode statistika, Visualisasi data, melihat pola serta korelasi antar data, dan analisis lainya.
 * Machine Learning membantu membuat model pembelajaran mesin dengan algoritma _Artificial Intelligence_, berdasarkan data yang diberikan. Model ini berpeluang untuk mengotomatisasi beberapa hal dalam IoT.
