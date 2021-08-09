@@ -11,10 +11,10 @@
 * [Manfaat IoT](dasar-dasar-iot/manfaat-iot.md)
 * [Arsitektur IoT](dasar-dasar-iot/arsitektur-iot.md)
 
-## Arduino
+## Hardware IoT <a id="hardwareiot"></a>
 
-* [Arduino UNO](arduino/arduino.md)
-* [ESP8266](arduino/esp8266.md)
-* [NodeMCU](arduino/nodemcu.md)
-* [Arduino IDE](arduino/arduino-ide.md)
+* [Arduino UNO](hardwareiot/arduinouno.md)
+* [ESP8266](hardwareiot/esp8266.md)
+* [NodeMCU](hardwareiot/nodemcu.md)
+* [Arduino IDE](hardwareiot/arduino-ide.md)
 

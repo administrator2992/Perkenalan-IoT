@@ -1,6 +1,6 @@
 # Arduino UNO
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 ### Tabel Spesifikasi Arduino UNO
 
@@ -19,11 +19,29 @@
 | SRAM | 2 KB |
 | EEPROM | 1 KB |
 | Clock Speed | 16 MHz |
-| Jumlah LED Terpasang | 13 |
+| LED\_BUILTIN | Pin 13 |
 | Panjang | 6, 86 cm |
 | Lebar | 5, 34 cm |
 | Berat | 25 gram |
 | Port USB | Tipe A to Tipe B \(persis USB Printer\) |
+| Barre Jack | 2.1 x 5.5mm Male |
+
+### PinOut Arduino UNO
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+{% tabs %}
+{% tab title="Tabel PinOut" %}
+| Nomor Pin | Nama Pin | Deskripsi | Fungsi Alternatif |
+| :--- | :--- | :--- | :--- |
+| 1 | RX / DO | Digital I/O Pin 0 Serial Pin RX | Umumnya digunakan sebagai RX |
+| 2 |  |  |  |
+{% endtab %}
+
+{% tab title="Penjelasan" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
