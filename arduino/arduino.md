@@ -9,6 +9,7 @@
 #### Tabel Spesifikasi Arduino UNO
 
 |  |  |
-| :--- | :--- |
+| :---: | :---: |
+| Jenis Microcontroller | Atmega328P |
 |  |  |
 
