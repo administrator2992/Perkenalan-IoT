@@ -32,10 +32,16 @@
 
 {% tabs %}
 {% tab title="Tabel PinOut" %}
-| Nomor Pin | Nama Pin | Deskripsi | Fungsi Alternatif |
-| :--- | :--- | :--- | :--- |
-| 1 | RX / DO | Digital I/O Pin 0 Serial Pin RX | Umumnya digunakan sebagai RX |
-| 2 |  |  |  |
+| Nama Pin | Deskripsi | Fungsi Alternatif |
+| :--- | :--- | :--- |
+| RX / DO | Digital I/O Pin 0 Serial Pin RX | Umumnya digunakan sebagai RX |
+| TX / D1 | Digital I/O Pin 1 Serial Pin TX | Umumnya digunakan sebagai TX |
+| D2 | Digital I/O Pin 2 | - |
+| D3 | Digital I/O Pin 3 | Timer \(OC2B\) |
+| D4 | Digital I/O Pin 4 | Timer \(T0/XCK\) |
+| D5 | Digital I/O Pin 5 | Timer \(OC0B/T1\) |
+| D6 | Digital I/O Pin 6 | - |
+| D7 |  |  |
 {% endtab %}
 
 {% tab title="Penjelasan" %}
@@ -43,5 +49,5 @@
 {% endtab %}
 {% endtabs %}
 
-
+Untuk lebih jelas diagramnya, bisa kunjungi link berikut ini :[ PinOut Diagram Arduino](https://content.arduino.cc/assets/Pinout-UNOrev3_latest.pdf)
 
