@@ -49,5 +49,5 @@
 {% endtab %}
 {% endtabs %}
 
-Untuk lebih jelas diagramnya, bisa kunjungi link berikut ini :[ PinOut Diagram Arduino](https://content.arduino.cc/assets/Pinout-UNOrev3_latest.pdf)
+Untuk lebih jelas diagramnya, bisa kunjungi link berikut ini : [PinOut Diagram Arduino](https://content.arduino.cc/assets/Pinout-UNOrev3_latest.pdf)
 
