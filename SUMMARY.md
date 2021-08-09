@@ -13,6 +13,8 @@
 
 ## Arduino
 
-* [Arduino](arduino/arduino.md)
+* [Arduino UNO](arduino/arduino.md)
+* [ESP8266](arduino/esp8266.md)
+* [NodeMCU](arduino/nodemcu.md)
 * [Arduino IDE](arduino/arduino-ide.md)
 
