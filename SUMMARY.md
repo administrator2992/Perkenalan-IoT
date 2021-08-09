@@ -13,5 +13,6 @@
 
 ## Arduino
 
+* [Arduino](arduino/arduino.md)
 * [Arduino IDE](arduino/arduino-ide.md)
 
