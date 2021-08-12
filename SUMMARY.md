@@ -13,8 +13,13 @@
 
 ## Hardware IoT <a id="hardwareiot"></a>
 
-* [Arduino UNO](hardwareiot/arduinouno.md)
+* [Arduino UNO](hardwareiot/arduino-uno/README.md)
+  * [Spesifikasi](hardwareiot/arduino-uno/spesifikasi.md)
+  * [PinOut](hardwareiot/arduino-uno/pinout.md)
 * [ESP8266](hardwareiot/esp8266.md)
 * [NodeMCU](hardwareiot/nodemcu.md)
-* [Arduino IDE](hardwareiot/arduino-ide.md)
+
+## SOFTWARE IOT
+
+* [Arduino IDE](software-iot/arduino-ide.md)
 
